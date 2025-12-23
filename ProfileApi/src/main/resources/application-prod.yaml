@@ -1,0 +1,4 @@
+app:
+  message: "Welcome to the Production Environment!"
+  api:
+    url: "https://zisan.dev"

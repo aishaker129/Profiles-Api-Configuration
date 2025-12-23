@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ProfileApi
+#    by default application.yaml is active
+#  profiles:
+#    active: prod
+app:
+  message: "Welcome to the Development Environment!"
+  api:
+    url: "http://localhost:5432/dev/api"
